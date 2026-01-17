@@ -1,5 +1,4 @@
 # Superstore-Sales-and-Profit-Analysis
-This project explores the Superstore Sales Dataset to uncover key insights about sales performance, discount strategies, regional profitability and customer behavior and translate those findings into actionable business insights.
 
 ## Overview
 This project analyzes the Superstore Sales Dataset (9,994 transactions) to identify profitability issues and growth opportunities. Through SQL analysis and Power BI dashboards, I uncovered that while the company achieved 20-30% YoY growth, $558K in profit was lost to discounting and the Furniture category operates at an unsustainable 2.48% margin.
