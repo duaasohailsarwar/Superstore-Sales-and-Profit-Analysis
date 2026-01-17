@@ -29,7 +29,7 @@ This project explores the Superstore Sales Dataset to uncover key insights about
 ## Dashboard Previews
 
 ### Sales & Profit Overview
-![Dashboard 1](./images/dashboard_overview.png)
+![Dashboard 1](<img width="959" height="522" alt="image" src="https://github.com/user-attachments/assets/bb811277-9fe3-4dc7-a394-553d5f34ee68" />)
 
 ### Discount Impact Analysis
 ![Dashboard 2](./images/discount_analysis.png)
