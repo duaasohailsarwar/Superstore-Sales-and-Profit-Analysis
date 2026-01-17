@@ -41,7 +41,7 @@ This project explores the Superstore Sales Dataset to uncover key insights about
 
 ## Connect
 **Duaa Sohail Sarwar**  
-📧 your.email@example.com  
+📧 duaasohailsarwar@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
