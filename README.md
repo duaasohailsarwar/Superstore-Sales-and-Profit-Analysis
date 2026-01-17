@@ -28,14 +28,14 @@ This project explores the Superstore Sales Dataset to uncover key insights about
 
 ## Dashboard Previews
 
-### Sales & Profit Overview
-![Dashboard 1](./images/1.png)
+### Discount Impact on Profitabilty
+![Dashboard 2](./images/discount_impact_on_profitabilty.png)
 
-### Discount Impact Analysis
-![Dashboard 2](./images/discount_analysis.png)
+### Geographic Performance
+![Dashboard 3](./images/geographic_performance.png)
 
-### Category Performance
-![Dashboard 5](./images/category_performance.png)
+### Product and Category Performance
+![Dashboard 5](./images/product_category_and_performance.png)
 
 > **For complete analysis, see [Superstore Sales and Profit Analysis Project.pdf](./Superstore%20Sales%20and%20Profit%20Analysis%20Project.pdf)**
 
