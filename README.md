@@ -40,9 +40,9 @@ This project explores the Superstore Sales Dataset to uncover key insights about
 > **For complete analysis, see [Superstore Sales and Profit Analysis Project.pdf](./Superstore%20Sales%20and%20Profit%20Analysis%20Project.pdf)**
 
 ## Connect
-**Duaa Sohail Sarwar**  
+**Duaa Sohail**  
 📧 duaasohailsarwar@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+💼 [LinkedIn](https://www.linkedin.com/in/duaa-sohail-0b2882247)
 
 ---
 
